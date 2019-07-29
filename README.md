@@ -8,6 +8,10 @@ React Router
 Your Mission
 We're going to create a photo gallery application which allows users to view their albums as well as the individual photos contained within. We'll implement this as a single page application (SPA). Use the following wireframes as layout inspiration:
 
+![Albums View](./wireframeImgs/AlbumMain.png)
+![Album View](./wireframeImgs/AlbumPics.png)
+![Individual Image View](./wireframeImgs/AlbumIndiPage.png)
+
 Normal Mode
 Challenge #1.1: Use your HTML & CSS knowledge to create the initial layouts for the SPA. Make sure you follow along with the wireframes above.
 

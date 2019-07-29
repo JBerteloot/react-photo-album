@@ -1,0 +1,252 @@
+{
+  "MyAlbums": [
+    {
+      "id": 1,
+      "name": "Up in the Air",
+      "coverimage": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05"
+    },
+    {
+      "id": 2,
+      "name": "Roadtrip",
+      "coverimage": "https://images.unsplash.com/photo-1519885277449-12eee5564d68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Home",
+      "coverimage": "https://images.unsplash.com/photo-1489413811361-e1a99e5d0886?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Away",
+      "coverimage": "https://images.unsplash.com/photo-1440778303588-435521a205bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Cheers",
+      "coverimage": "https://images.unsplash.com/photo-1516600164266-f3b8166ae679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Resist",
+      "coverimage": "https://images.unsplash.com/photo-1487281438332-b1dc4af0c5ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    }
+  ],
+  "MyPictures": [
+    {
+      "name": "Sunrise",
+      "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05",
+      "MyAlbumId": 1,
+      "id": 1
+    },
+    {
+      "name": "KLM in the Air",
+      "url": "https://images.unsplash.com/photo-1517999349371-c43520457b23",
+      "MyAlbumId": 1,
+      "id": 2
+    },
+    {
+      "name": "Taking Control",
+      "url": "https://images.unsplash.com/photo-1511140276483-30c1217ca449",
+      "MyAlbumId": 1,
+      "id": 3
+    },
+    {
+      "name": "In a Rush",
+      "url": "https://images.unsplash.com/photo-1515446870326-c532f9a8d954",
+      "MyAlbumId": 1,
+      "id": 4
+    },
+    {
+      "name": "Room with a View",
+      "url": "https://images.unsplash.com/photo-1519666336592-e225a99dcd2f",
+      "MyAlbumId": 1,
+      "id": 5
+    },
+    {
+      "name": "Homebound",
+      "url": "https://images.unsplash.com/photo-1512100356356-de1b84283e18",
+      "MyAlbumId": 1,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Ahead",
+      "url": "https://images.unsplash.com/photo-1519885277449-12eee5564d68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80",
+      "MyAlbumId": 2
+    },
+    {
+      "id": 8,
+      "name": "Red Rocks",
+      "url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 2
+    },
+    {
+      "name": "Natural Light",
+      "url": "https://images.unsplash.com/photo-1470089504205-f6ece216c2f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 2,
+      "id": 9
+    },
+    {
+      "name": "Looking Back",
+      "url": "https://images.unsplash.com/photo-1491330798395-0749fbe9761a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 2,
+      "id": 10
+    },
+    {
+      "name": "The Other Kind of Roadtrip",
+      "url": "https://images.unsplash.com/photo-1442544213729-6a15f1611937?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 2,
+      "id": 11
+    },
+    {
+      "name": "Follow me",
+      "url": "https://images.unsplash.com/33/hBd6EPoQT2C8VQYv65ys_White%20Sands.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 2,
+      "id": 12
+    },
+    {
+      "name": "Pyramidal",
+      "url": "https://images.unsplash.com/photo-1489413811361-e1a99e5d0886?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 13
+    },
+    {
+      "name": "Street Art",
+      "url": "https://images.unsplash.com/photo-1495316414496-347ed93d0223?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 14
+    },
+    {
+      "name": "Off the beaten path",
+      "url": "https://images.unsplash.com/photo-1458095876345-b919034220fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 15
+    },
+    {
+      "name": "Getting High",
+      "url": "https://images.unsplash.com/photo-1492124652686-bdc9c0784ffa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 16
+    },
+    {
+      "name": "La Vie En Rose",
+      "url": "https://images.unsplash.com/photo-1547961547-321889bff29e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 17
+    },
+    {
+      "name": "On top of the world",
+      "url": "https://images.unsplash.com/photo-1506184515391-333e5afa6927?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 3,
+      "id": 18
+    },
+    {
+      "name": "Vacationing",
+      "url": "https://images.unsplash.com/photo-1440778303588-435521a205bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 19
+    },
+    {
+      "name": "City of Love",
+      "url": "https://images.unsplash.com/photo-1438955185657-797f29aeaea8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 20
+    },
+    {
+      "name": "Highway to Sunset",
+      "url": "https://images.unsplash.com/photo-1549778399-f94fd24d4697?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 21
+    },
+    {
+      "name": "City on the water",
+      "url": "https://images.unsplash.com/photo-1561495762-2b67f674b10a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 22
+    },
+    {
+      "name": "Melting",
+      "url": "https://images.unsplash.com/flagged/photo-1550171731-7eae6c94d398?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 23
+    },
+    {
+      "name": "Mosque at dawn",
+      "url": "https://images.unsplash.com/photo-1455620611406-966ca6889d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 4,
+      "id": 24
+    },
+    {
+      "name": "With friends",
+      "url": "https://images.unsplash.com/photo-1516600164266-f3b8166ae679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 25
+    },
+    {
+      "name": "With coffee!",
+      "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 26
+    },
+    {
+      "name": "Solo",
+      "url": "https://images.unsplash.com/photo-1485265449635-ca623a55e95c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 27
+    },
+    {
+      "name": "End of night",
+      "url": "https://images.unsplash.com/photo-1437418747212-8d9709afab22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 28
+    },
+    {
+      "name": "Martini Flight",
+      "url": "https://images.unsplash.com/photo-1544145945-c2f1df349a41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 29
+    },
+    {
+      "name": "Mojito way",
+      "url": "https://images.unsplash.com/photo-1495808921907-1599ab4d6801?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 5,
+      "id": 30
+    },
+    {
+      "name": "R.E.S.I.S.T.",
+      "url": "https://images.unsplash.com/photo-1487281438332-b1dc4af0c5ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 31
+    },
+    {
+      "name": "United Against Hate",
+      "url": "https://images.unsplash.com/photo-1485745492261-a3819c494d11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 32
+    },
+    {
+      "name": "Power in Pink",
+      "url": "https://images.unsplash.com/photo-1485282279456-876648a47267?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 33
+    },
+    {
+      "name": "Glitery",
+      "url": "https://images.unsplash.com/photo-1525787018795-f6419ea29f90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 34
+    },
+    {
+      "name": "Love units us",
+      "url": "https://images.unsplash.com/photo-1523473985258-942d48a5a639?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 35
+    },
+    {
+      "name": "Culitvate Differencies",
+      "url": "https://images.unsplash.com/photo-1532617040019-3900939de424?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "MyAlbumId": 6,
+      "id": 36
+    }
+  ]
+}
